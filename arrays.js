@@ -4,5 +4,3 @@ function addElementToBeginningOfArray(array, element) {
   var narray = [element, ...array]
   return narray
 }
-
-
